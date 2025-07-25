@@ -2,7 +2,7 @@
 Care Cane is a smart cane for the visually impaired that offers obstacle detection, navigation help, fall alerts, and emergency messaging to improve safety and independence.
 <img width="2643" height="2141" alt="Care Cane" src="https://github.com/user-attachments/assets/022cb34c-e6b3-480d-9ba1-02fcde996e3d" />
 
-
+![Care Cane](https://github.com/user-attachments/assets/4d20e5ad-5194-49e5-95c0-7d25091af32b)
 ### Care Cane
 
 **“Seeing Beyond Boundaries”**
